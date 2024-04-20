@@ -17,8 +17,8 @@ fn main() {
 }
 ```
 ## Demo Screenshots
-![DemoScreenshots](https://github.com/Erzhan004/Sorting_BC/blob/main/Снимок%20экрана%20(348).png
+![DemoScreenshots](https://github.com/Erzhan004/Sorting_BC/blob/main/Снимок%20экрана%20(348).png)
 
-![DemoScreenshots](https://github.com/Erzhan004/Sorting_BC/blob/main/Снимок%20экрана%20(347).png
+![DemoScreenshots](https://github.com/Erzhan004/Sorting_BC/blob/main/Снимок%20экрана%20(347).png)
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
