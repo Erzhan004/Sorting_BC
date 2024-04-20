@@ -4,7 +4,7 @@ This library provides efficient and customizable sorting algorithms implemented 
 ## Usage
 To use this library, add the following to your Cargo.toml:
 
-sorting_library = { git = "https://github.com/Erzhan004/Sorting_BC.git" }
+```sorting_library = { git = "https://github.com/Erzhan004/Sorting_BC.git" }```
 
 Then, in your Rust application, you can use the sorting functions as follows:
 ```
